@@ -1,3 +1,3 @@
 # SQL-Playground
 
-Here's to refamiliarizing your self with SQL and Building Databases!!
+Here's to refamiliarizing yourself with SQL and Building Databases!!
