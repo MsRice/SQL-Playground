@@ -15,16 +15,16 @@ Each book should have an id, title, and each user should be able to save their f
 
 - Name the schema books_schema
 
-- Create a table called users
+- Create a table called authors
 
-- Add the fields to the users table including: id, name, created_at and updated_at
+- Add the fields to the authors table including: id, name, created_at and updated_at
 
 - Create a table called books
 
 - Add fields to the books table including: id, title, num_of_pages, created_at, and updated_at
 
-- Create a many to many relationship between users and books and rename the joining table to favorites
+- Create a many to many relationship between authors and books and rename the joining table to favorites
 
-- Change the field names to the singular pronoun. ie. user_id and book_id
+- Change the field names to the singular pronoun. ie. author_id and book_id
 
 - Save your ERD as a .mwb file and submit it to the platform
