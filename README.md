@@ -10,3 +10,5 @@ Assginments Order - ASC Difficulty
 2. Dojos and Ninjas
 3. Books
 4. Friendships
+5. Event Planner
+   
