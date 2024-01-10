@@ -11,4 +11,5 @@ Assginments Order - ASC Difficulty
 3. Books
 4. Friendships
 5. Event Planner
+6. Blogs
    
