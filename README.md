@@ -13,3 +13,4 @@ Assginments Order - ASC Difficulty
 5. Event Planner
 6. Blogs
 7. User Dashboard
+8. Normalization
