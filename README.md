@@ -16,3 +16,4 @@ Assginments Order - ASC Difficulty
 8.  Normalization
 9.  Users
 10. Dojos and Ninjas - SQL
+11. Books - SQL
